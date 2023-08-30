@@ -1,7 +1,7 @@
-github.com/Sona-28/netxd_customer v0.0.0-20230830070942-f13a0041f877 h1:bUbj3KQZycIvUo466dci21QHffnhVQPPlNrjZOEF6nI=
-github.com/Sona-28/netxd_customer v0.0.0-20230830070942-f13a0041f877/go.mod h1:u6Gn0eB7kBkBaUhR/1ZLVzVXgI0cocrd1fK/geelcPo=
-github.com/Sona-28/netxd_dal v0.0.0-20230830071201-4b0b39945546 h1:UjP4uMWMVk0bqx16na41vLXTmp6nu6ZPRjPqiluMxxI=
-github.com/Sona-28/netxd_dal v0.0.0-20230830071201-4b0b39945546/go.mod h1:CQACwJ67Pa2+T6EjQV/71aR9Xys8JayH4x1KFhj2Eqw=
+github.com/Sona-28/netxd_customer v0.0.0-20230830073352-d1769de74f56 h1:IYrcpSH5GfXyhc+xLKWFsVUVfo1dwYaI7O1OwqL4IDA=
+github.com/Sona-28/netxd_customer v0.0.0-20230830073352-d1769de74f56/go.mod h1:JAfK/3i+08mDoYH/3m6ORQ6OBjpg3CCeQKTsfwBeuG0=
+github.com/Sona-28/netxd_dal v0.0.0-20230830073336-e1e3ff2a1b98 h1:3tIGvOKkC1nUjkKCL/DqP/qtknO7T70HYroY9xAdNzM=
+github.com/Sona-28/netxd_dal v0.0.0-20230830073336-e1e3ff2a1b98/go.mod h1:pCxZ2B+NnI5cnP7/Ll2wdqE24gxOFcC6PvptWkSBFFM=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
