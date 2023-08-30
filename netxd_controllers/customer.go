@@ -3,9 +3,9 @@ package rpcService
 import (
 	"context"
 	"go.mongodb.org/mongo-driver/mongo"
-	pb "netxd_project/netxd_customer"
-	interfaces "netxd_project/netxd_dal/netxd_dal_interfaces"
-	models "netxd_project/netxd_dal/netxd_dal_models"
+	pb "github.com/Sona-28/netxd_customer"
+	interfaces "github.com/Sona-28/netxd_dal/netxd_dal_interfaces"
+	models "github.com/Sona-28/netxd_dal/netxd_dal_models"
 	"sync"
 )
 

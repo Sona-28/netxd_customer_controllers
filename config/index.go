@@ -7,7 +7,7 @@ import (
 	"context"
 	"fmt"
 	"log"
-	"netxd_project/netxd_customer_controllers/constants"
+	"github.com/Sona-28/netxd_customer_controllers/constants"
 	"time"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
