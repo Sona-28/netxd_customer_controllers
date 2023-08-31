@@ -3,8 +3,8 @@ module github.com/Sona-28/netxd_customer_controllers
 go 1.20
 
 require (
-	github.com/Sona-28/netxd_customer v0.0.0-20230830073352-d1769de74f56
-	github.com/Sona-28/netxd_dal v0.0.0-20230830073336-e1e3ff2a1b98
+	github.com/Sona-28/netxd_customer v0.0.0-20230830074638-bf10955ccba1
+	github.com/Sona-28/netxd_dal v0.0.0-20230830075409-4a4e57825de8
 	go.mongodb.org/mongo-driver v1.12.1
 	google.golang.org/grpc v1.57.0
 )
@@ -24,5 +24,5 @@ require (
 	golang.org/x/sys v0.7.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230525234030-28d5490b6b19 // indirect
-	google.golang.org/protobuf v1.30.0 // indirect
+	google.golang.org/protobuf v1.31.0 // indirect
 )
